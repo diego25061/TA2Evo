@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+
+<valores>
+
+   <testSuma>
+      <valor1>3</valor1>
+      <valor2>4</valor2>
+      <esperado>7</esperado>
+   </testSuma>
+
+   <testInterpretador>
+      <numero>2</numero>
+      <esperado>dos</esperado>
+   </testInterpretador>
+
+   <testInterpretadorDif>
+      <numero>2</numero>
+      <esperado>tres</esperado>
+   </testInterpretadorDif>
+
+   <testModuloVector>
+      <x>3</x>
+      <y>4</y>
+      <esperado>5</esperado>
+   </testModuloVector>
+
+   <testInterpretadorNull>
+      <valor>12</valor>
+   </testInterpretadorNull>
+
+   <testPar>
+      <valor>24</valor>
+   </testPar>
+
+</valores>
