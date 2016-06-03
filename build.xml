@@ -11,31 +11,6 @@
     <description>Builds, tests, and runs the project TA2Evo.</description>
     <import file="nbproject/build-impl.xml"/>
 
-
-    <!--
-   <property name="testdir" location="test" />
-   <property name="srcdir" location="src" />
-   <property name="full-compile" value="true" />
-
-   <path id="classpath.base"/>
-
-
-   <path id="classpath.test">
-      <pathelement location="${testdir}" />
-      <pathelement location="${srcdir}" />
-      <path refid="classpath.base" />
-   </path>
-
-   <target name="test" depends="compile">
-      <junit>
-         <classpath refid="classpath.test" />
-         <formatter type="brief" usefile="false" />
-         <test name="TestMessageUtil" />
-      </junit>
-   </target>
-
-    -->
-
     <!--
 
     There exist several targets which are by default empty and which can be 

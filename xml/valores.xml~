@@ -5,12 +5,12 @@
    <testSuma>
       <valor1>3</valor1>
       <valor2>4</valor2>
-      <esperado>9</esperado>
+      <esperado>7</esperado>
    </testSuma>
 
    <testInterpretador>
       <numero>2</numero>
-      <esperado>doss</esperado>
+      <esperado>dos</esperado>
    </testInterpretador>
 
    <testInterpretadorDif>
