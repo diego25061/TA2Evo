@@ -31,7 +31,8 @@ public class Lector {
 	         Element e = (Element) nNode;
 	            return e.getElementsByTagName(subtag).item(0).getTextContent();
 	         
-	      } catch (ParserConfigurationException | SAXException | IOException | DOMException e) {      
+	      } catch (Exception e) {
+                  e.printStackTrace();
               }
 		return null;
 

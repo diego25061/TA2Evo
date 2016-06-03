@@ -7,7 +7,7 @@ import ta2.Calculadora;
 import ta2.Interpretador;
 import ta2.Lector;
 
-public class Pruebas {
+public class TodoTest {
 
 	@Test
 	public void probarSuma() {
